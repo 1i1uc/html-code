@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en-us">
+<head>
+<meta charset="utf-8">
+<title>link</title>
+<body>
+<h1 style="color: darkred">this is red head</h1>
+	<h2 title="no this is a head">this is a paragragh</h2>
+	<a href="https://www.4399.com">this is a link</a>
+</body>
+</html>
